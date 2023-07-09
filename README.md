@@ -32,6 +32,8 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/93068379/252142443-
 - <a href="https://github.com/Jdbarad/Play-with-Dots">Play with Dots</a>
 - <a href="https://github.com/Jdbarad/Api-App-with-Search">Elsnerdev-Api with Search</a>
 - <a href="https://github.com/Jdbarad/News-App-Android">News-Api with Social Sign-in</a>
+- <a href="https://github.com/Jdbarad/QfonApp/">Api With Local Database & Search</a>
+- <a href="https://github.com/Jdbarad/MindMyScape">Mind My Scape</a>
 
 ## Developed By
 ### [Jaypalsinh Barad](https://jdbarad.github.io/)
